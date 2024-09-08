@@ -42,9 +42,9 @@
   * 운영체제 : 실시간 운영체제(RTOS : Real-Time Operating System), 임베디드 리눅스
   * 애플리케이션 소프트웨어 : 사용자 인터페이스, 네트워크 통신 모듈
 
-<img src = "https://github.com/user-attachments/assets/8e5363ce-b1b2-4bb8-9b27-18085ab8a128">
+<img src = "https://github.com/user-attachments/assets/7f2995f1-b593-4dc4-aa92-b320915f8954">
 
-
+출처 : https://blog.naver.com/cni1577/221500232793
 
 ## 5. 임베디드 시스템의 장단점
 
