@@ -32,7 +32,15 @@
 
 ## 2. DHT11 온습도센서
 
-<img src = "https://github.com/user-attachments/assets/67b26090-482a-4c26-b687-4aa1a360a7ac" width="550" height="200">
+<img src = "https://github.com/user-attachments/assets/92a84589-82f0-4e15-8337-8ecb2c716613" width="550" height="400">
+<img src = "https://github.com/user-attachments/assets/4d13ee52-f62b-4fa3-86b1-460f2e1c1aea" width="550" height="400">
 
-**라즈베리파이 5에서 발생했던 오류가 동일하게 발생**  
-**온습도센서와 관련된 라이브러리 설치 불가 - 패키지 관련 정책 강화로 인한 문제**
+**온습도센서, 대쉬보드 설치**
+
+<img src = "https://github.com/user-attachments/assets/0ab32cc1-a407-4af7-b895-6c448ee770fb" width="550" height="400">
+<img src = "https://github.com/user-attachments/assets/0aece77b-1218-4301-9b0e-a16c1d6fd10a" width="550" height="400">
+<img src = "https://github.com/user-attachments/assets/1fd949c7-89a3-4a0b-a59d-5241968353a9" width="550" height="400">
+<img src = "https://github.com/user-attachments/assets/9b7ca9d0-53ff-4314-89cd-35bd16f4a58d" width="550" height="400">
+
+
+
