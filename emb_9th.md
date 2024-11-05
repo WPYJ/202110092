@@ -2,9 +2,9 @@
 
 ## ▶라즈베리파이 & 카메라
 
-<img src = "https://github.com/user-attachments/assets/bbe60b3b-62c4-4e52-a13c-75ac5d8d6d28" width="500" height="300">
+<img src = "https://github.com/user-attachments/assets/ca43e67d-21d8-4207-9233-9e52a7988ae3" width="500" height="300">
 
-**1. 라즈베리파이와 카메라 모듈 연결**
+**1. 라즈베리파이와 카메라 모듈 연결(+온습도센서)**
 
 <img src = "https://github.com/user-attachments/assets/993d4ef7-0b80-4974-b008-c8f78c7cd3ba" width="550" height="300">
 <img src = "https://github.com/user-attachments/assets/fa4b0cc0-05f9-48a3-840e-a7aeaf7f6b87" width="550" height="300">
@@ -28,3 +28,7 @@
 <img src = "https://github.com/user-attachments/assets/e345abb2-9ae7-4c36-93f9-25dea36a2cec" width="550" height="300">
 
 **2. 위의 결과물과 비교하여 픽셀 사이즈(해상도)가 커졌음**
+
+## 온습도센서와 Node-Red
+
+
