@@ -29,6 +29,34 @@
 
 **2. 위의 결과물과 비교하여 픽셀 사이즈(해상도)가 커졌음**
 
-## 온습도센서와 Node-Red
+## ▶온습도센서와 Node-Red
+
+**노드 구성**
+
+<img src = "https://github.com/user-attachments/assets/465c13fd-5443-4731-b1bb-3c01139dc83c" width="550" height="300">
+
+**대시보드 설정**
+
+<img src = "https://github.com/user-attachments/assets/95da3605-3850-405e-b635-e1dc4c50f272" width="550" height="400">
+
+***base64 노드***
+
+<img src = "https://github.com/user-attachments/assets/73c7ae20-d5f2-47e9-b689-c20335d070fc" width="550" height="400">
+
+***image 노드***
+
+<img src = "https://github.com/user-attachments/assets/f2f5cb83-4e96-4f87-b2d7-1e63617cc3e8" width="550" height="400">
+
+***주황색 템플렛***
+
+<img src = "https://github.com/user-attachments/assets/3e97a525-9ae0-454d-9017-41c5d5150100" width="550" height="400">
+
+***초록색 템플렛***
+
+<img src = "https://github.com/user-attachments/assets/588fc037-8bf3-470f-a25f-6385c57b1fed" width="550" height="400">
+
+**결과**
+
+<img src = "https://github.com/user-attachments/assets/98f3e1dd-550f-416c-b27f-e2f9b913b78f" width="550" height="300">
 
 
