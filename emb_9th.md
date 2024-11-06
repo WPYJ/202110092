@@ -47,7 +47,7 @@
 
 <img src = "https://github.com/user-attachments/assets/f2f5cb83-4e96-4f87-b2d7-1e63617cc3e8" width="550" height="400">
 
-***주황색 템플렛***
+***주황색 템플렛 ->img src="data:image/jpeg;base64,{{payload}}" alt="Image" style="max-width: 100%;"***
 
 <img src = "https://github.com/user-attachments/assets/3e97a525-9ae0-454d-9017-41c5d5150100" width="550" height="400">
 
