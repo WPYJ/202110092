@@ -30,7 +30,7 @@
 ## Grafana & Node-RED & InfluxDB 연동 방법  
 
 ### 1. InfluxDB 노드 설치  
-Node-RED에서 InfluxDB 노드를 설치하여 데이터를 저장하고 관리할 준비를 합니다.  
+Node-RED에서 InfluxDB 노드를 설치한다. 그 중에서 Influxdb-Out 노드를 사용한다.  
 
 ### 2. InfluxDB 설정  
 ![InfluxDB 설정 화면](https://github.com/user-attachments/assets/41edd7a6-280b-401a-8f75-3a7658ae296a)  
@@ -40,11 +40,11 @@ Node-RED에서 InfluxDB 노드를 설치하여 데이터를 저장하고 관리�
 - **Fields**: `temperature`, `humidity`  
 
 ### 3. 데이터 변환 작업  
-InfluxDB는 데이터를 `float` 타입으로 받으므로, Function 노드를 사용하여 데이터를 변환합니다.  
+InfluxDB는 데이터를 `float` 타입으로 받으므로, Function 노드를 사용하여 데이터를 변환한다.  
 ![Function 노드 설정](https://github.com/user-attachments/assets/3bd389a3-f380-41a2-b251-d3eca2421ccf)  
 
 ### 4. Grafana 데이터 소스 설정  
-Grafana에서 데이터 시각화를 위해 InfluxDB를 데이터 소스로 추가합니다.  
+Grafana에서 데이터 시각화를 위해 InfluxDB를 데이터 소스로 추가한다.  
 ![Grafana 데이터 소스 설정](https://github.com/user-attachments/assets/1ab677db-857d-4fea-a337-cc609417a116)  
 1. Grafana 설치 후 **"Add your first data source"** 클릭  
 2. InfluxDB 선택 후 **Database** 필드에 `nodered_data` 입력  
@@ -53,6 +53,13 @@ Grafana에서 데이터 시각화를 위해 InfluxDB를 데이터 소스로 추�
 ![Grafana 대시보드 생성](https://github.com/user-attachments/assets/e7d70105-e9a5-47b8-b2d6-d8239a6ec4ed)  
 - **"Create your first dashboard"** 선택 후 **"Add visualization"** 클릭  
 - `temperature`와 `humidity` 데이터를 각각의 Query로 추가  
-- 시각화를 통해 실시간 데이터 변화를 확인  
+- 시각화를 통해 실시간 데이터 변화를 확인
+
+### 6. 대시보드 설정  
+
+![대시보드 설정](https://github.com/user-attachments/assets/7fcd00d4-434f-46c8-837d-58de75329e49)  
+
+- **Refresh** 칸 오른쪽을 **AUTO**로 설정하면 대시보드가 자동으로 최신화한다..  
+- 그래프의 스타일, 포인트 크기 등은 해당 페이지 오른쪽 패널에서 설정할 수 있다.  
 
 ---
