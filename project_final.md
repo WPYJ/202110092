@@ -59,7 +59,7 @@ Grafana에서 데이터 시각화를 위해 InfluxDB를 데이터 소스로 추�
 
 ![대시보드 설정](https://github.com/user-attachments/assets/7fcd00d4-434f-46c8-837d-58de75329e49)  
 
-- **Refresh** 칸 오른쪽을 **AUTO**로 설정하면 대시보드가 자동으로 최신화한다..  
+- **Refresh** 칸 오른쪽을 **AUTO**로 설정하면 대시보드가 자동으로 최신화한다.  
 - 그래프의 스타일, 포인트 크기 등은 해당 페이지 오른쪽 패널에서 설정할 수 있다.  
 
 ---
