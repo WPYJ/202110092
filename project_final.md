@@ -1,5 +1,7 @@
 # 임베디드 시스템 프로젝트 최종 결과 보고서  
 ### **프로젝트명:** 자동차 내부 온습도 모니터링  
+
+  <img src = "https://github.com/user-attachments/assets/c44bc6a1-f571-4af5-8ebf-b9a6411dd588" width="450" height="450">
   
 ---
 
